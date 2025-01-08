@@ -9,7 +9,7 @@ export function Projects() {
     {
       title: "E-commerce Platform",
       description: "A responsive full-stack e-commerce platform built with Next.js",
-      image: "/images/p1.jpg",
+      image: "/1.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Hackthon-2-",
       demo: "https://hackthon-2-updated.vercel.app/",
       tags: ["Next.js", "Tailwind CSS", "TypeScript"],
@@ -17,7 +17,7 @@ export function Projects() {
     {
       title: "E-commerce Website",
       description: "A responsive full-stack e-commerce website built with Next.js",
-      image: "/images/p2.jpg",
+      image: "/2.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Internship-tasks",
       demo: "https://internship-tasks-eosin.vercel.app/",
       tags: ["Next.js", "Tailwind CSS", "TypeScript"],
@@ -25,7 +25,7 @@ export function Projects() {
     {
       title: "Perfume Website",
       description: "A responsive perfume website built with Next.js and Tailwind CSS",
-      image: "/images/p3.jpg",
+      image: "/3.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Responsive-Perfume-Website",
       demo: "https://responsive-perfume-website.vercel.app/",
       tags: ["Next.js", "Tailwind CSS", "TypeScript"],
@@ -33,7 +33,7 @@ export function Projects() {
     {
       title: "S.A.M Technologist",
       description: "A company website using HTML and CSS (Not Responsive)",
-      image: "/images/p4.jpg",
+      image: "/4.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Company-Website-using-HTML-CSS",
       demo: "https://company-website-eta-five.vercel.app/",
       tags: ["HTML", "CSS"],
@@ -41,7 +41,7 @@ export function Projects() {
     {
       title: "Portfolio Website",
       description: "A portfolio website built with HTML and CSS (Not Responsive)",
-      image: "/images/p5.jpg",
+      image: "/5.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Portfolio-website-through-HTML-CSS",
       demo: "https://portfolio-website-lemon-xi.vercel.app/",
       tags: ["HTML", "CSS"],
@@ -49,7 +49,7 @@ export function Projects() {
     {
       title: "Interactive Counter",
       description: "A responsive Interactive counter built with Next.js and Tailwind CSS",
-      image: "/images/p11.jpg",
+      image: "/11.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Interactive-Counter",
       demo: "https://interactive-counter-nine.vercel.app/",
       tags: ["Next.js", "Tailwind CSS", "TypeScript"],
@@ -57,7 +57,7 @@ export function Projects() {
     {
       title: "Static Interactive Resume Builder",
       description: "A responsive Static Interactive Resume Builder built with HTML and CSS",
-      image: "/images/p6.jpg",
+      image: "/6.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Hackathon-Milestones/tree/main/Milestone%201",
       demo: "https://milestone-1-red.vercel.app/",
       tags: ["HTML", "CSS"],
@@ -65,7 +65,7 @@ export function Projects() {
     {
       title: "Dynamic Resume Builder",
       description: "A responsive Dynamic Resume Builder built with HTML and CSS",
-      image: "/images/p7.jpg",
+      image: "/7.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Hackathon-Milestones/tree/main/Milestone%203",
       demo: "https://milestone-3-seven-eosin.vercel.app/",
       tags: ["HTML", "CSS"],
@@ -73,7 +73,7 @@ export function Projects() {
     {
       title: "Editable Resume Builder",
       description: "A responsive Editable Resume Builder built with HTML and CSS",
-      image: "/images/p8.jpg",
+      image: "/8.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Hackathon-Milestones/tree/main/Milestone%204",
       demo: "https://milestone-4-gamma-jade.vercel.app/",
       tags: ["HTML", "CSS"],

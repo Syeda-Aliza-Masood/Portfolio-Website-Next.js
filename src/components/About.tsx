@@ -24,7 +24,7 @@ export function About() {
           </div>
           <div className="relative h-[300px] md:h-[400px] rounded-lg overflow-hidden">
             <Image 
-              src="/1.jpg" 
+              src="/about.jpg" 
               alt="Example Image" 
               fill 
               sizes="(max-width: 768px) 100vw, 
