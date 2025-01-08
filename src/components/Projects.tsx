@@ -81,7 +81,7 @@ export function Projects() {
     {
       title: "Shareable Resume Builder",
       description: "A responsive Shareable Resume Builder built with HTML and CSS",
-      image: "/images/p9.jpg",
+      image: "/9.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Hackathon-Milestones/tree/main/Milestone%205",
       demo: "https://milestone-5-zeta-teal.vercel.app/",
       tags: ["HTML", "CSS"],
@@ -89,7 +89,7 @@ export function Projects() {
     {
       title: "API Use",
       description: "A responsive API Use built with Next.js and Tailwind CSS",
-      image: "/images/p10.jpg",
+      image: "/10.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/API-Class-Assignment",
       demo: "https://api-class-assignment.vercel.app/",
       tags: ["Next.js", "Tailwind CSS", "TypeScript"],
