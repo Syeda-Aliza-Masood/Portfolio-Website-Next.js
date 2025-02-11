@@ -8,7 +8,7 @@ export function Projects() {
   const projects = [
     {
       title: "Zoshka E-Commerce Website",
-      description: "A responsive e-commerce platform built with Next.js",
+      description: "A responsive e-commerce marketplace platform built with Next.js",
       image: "/13.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Zoshka-Website",
       demo: "https://zoshka-website.vercel.app/",
