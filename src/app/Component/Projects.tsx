@@ -25,7 +25,7 @@ export function Projects() {
     {
       title: "E-commerce Platform",
       description: "A responsive full-stack e-commerce platform built with Next.js",
-      image: "/1.jpg",
+      image: "/1.png",
       github: "https://github.com/Syeda-Aliza-Masood/Hackthon-2-",
       demo: "https://hackthon-2-updated.vercel.app/",
       tags: ["Next.js", "Tailwind CSS", "TypeScript"],
