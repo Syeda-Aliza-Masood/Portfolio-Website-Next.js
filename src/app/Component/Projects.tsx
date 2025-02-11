@@ -126,6 +126,7 @@ export function Projects() {
                   width={400}
                   height={250}
                   className=" object-cover w-full h-full"
+                  unoptimized
                 />
               </div>
               <CardContent className="p-4">
