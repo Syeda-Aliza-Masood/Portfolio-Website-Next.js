@@ -20,7 +20,7 @@ export function Projects() {
       image: "/12.jpg",
       github: "https://github.com/Syeda-Aliza-Masood/Blog-website",
       demo: "https://blog-website-rosy-rho.vercel.app/",
-      tags: ["Next.js", "Tailwind CSS", "TypeScript"],
+      tags: ["Next.js", "Tailwind CSS"],
     },
     {
       title: "E-commerce Platform",
