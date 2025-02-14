@@ -39,6 +39,14 @@ export function Projects() {
       tags: ["Next.js", "Tailwind CSS", "TypeScript"],
     },
     {
+      title: "API Routes Website",
+      description: "A responsive API Routes website built with Next.js and Tailwind CSS",
+      image: "/14.png",
+      github: "https://github.com/Syeda-Aliza-Masood/E-commerce-site-API-routes",
+      demo: "https://e-commerce-site-api-routes-ashy.vercel.app/",
+      tags: ["Next.js", "Tailwind CSS", "TypeScript"],
+    },
+    {
       title: "Perfume Website",
       description: "A responsive perfume website built with Next.js and Tailwind CSS",
       image: "/3.png",
